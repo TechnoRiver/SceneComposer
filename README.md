@@ -33,7 +33,10 @@ Skip the setup and dive straight into creation. **Scene Composer** is a free Ble
 > Also available for Blender 4.2: [scene_composer_blender42.zip](scene_composer_blender42.zip)
 
 ---
+## Project Page
+[Scene Composer](https://micre13b.com/BlenderAddons/SceneComposer.html)
 
+---
 ## Interface
 
 All parameters are docked directly in the 3D Viewport sidebar, keeping your creative tools exactly where you work. The **Primitives** tab appears after clicking **N** in the 3D Viewport.
