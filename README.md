@@ -36,6 +36,8 @@ Skip the setup and dive straight into creation. **Scene Composer** is a free Ble
 ## Project Page
 [Scene Composer](https://micre13b.com/BlenderAddons/SceneComposer.html)
 
+To add features, simply unzip the **scene_composer_blender50.zip** Blender Addon file, upload the python script (.py) to Claude Opus or ChatGPT Codex, and ask them to implement new features such as more color schemes, more object types, more material etc.
+
 ---
 ## Interface
 
