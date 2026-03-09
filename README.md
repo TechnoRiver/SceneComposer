@@ -36,7 +36,7 @@ Skip the setup and dive straight into creation. **Scene Composer** is a free Ble
 
 ## Interface
 
-All parameters are docked directly in the 3D Viewport sidebar, keeping your creative tools exactly where you work. , The Primitives tab appears after clicking N in the 3D Viewport.
+All parameters are docked directly in the 3D Viewport sidebar, keeping your creative tools exactly where you work. The **Primitives** tab appears after clicking **N** in the 3D Viewport.
 
 ![Scene Composer UI](images/SceneComposerUI.png)
 
