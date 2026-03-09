@@ -1,7 +1,7 @@
 # Scene Composer
 ### Cinematic Composition Generator for Blender
 
-![Scene Composer](images/SceneComposer1.png)
+![Scene Composer](images/FeatureImage.png)
 
 ---
 
