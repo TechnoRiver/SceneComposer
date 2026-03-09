@@ -156,4 +156,4 @@ GPL — Free to use and modify.
 ## Credits
 
 &copy; 2026 [MICRE13B.COM](https://www.micre13b.com) — Projects powered by Claude.ai
-Producer of the [MICR E13B](https://www.micre13b.com) Font.
+
